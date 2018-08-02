@@ -17,7 +17,7 @@ To prepare this app for running you have to:
 2. Install [**Unmind Server**](https://github.com/legan-/unmind-server)
 3. `git clone git@github.com:legan-/unmind-client.git`
 4. `cd unmind-client`
-5. `yarn i`
+5. `yarn install`
 
 ### Running app
 
