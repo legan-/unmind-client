@@ -9,7 +9,7 @@
 
 ## Getting Started
 
-### Installing
+### Installation
 
 To prepare this app for running you have to:
 
